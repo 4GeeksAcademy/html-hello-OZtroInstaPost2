@@ -1,0 +1,120 @@
+body {
+    background: black;
+    align-content: center;
+    padding: 3rem;
+}
+
+.post {
+    width: 35rem;
+    height: 50rem;
+    background-color: white;
+    margin: auto;
+    max-width: auto;
+}    
+
+
+
+
+
+
+.post-header {  
+    
+    margin: auto;
+    width: 35em;
+    height: 5em;
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    align-content: center;
+    
+}
+
+.Menu {
+    float: right;
+    padding-right: 1em;
+    font-size: 2em;  
+    max-width: 0;
+    margin-top: 0.3em;
+    
+    
+}
+.Logo {
+    padding-left: 0.5em;
+    font-size: 2em;
+    max-width: 0;
+    float: inline-start;
+    margin-top: 0.3em;
+    
+}
+.Titles {
+    margin-left: 2em;
+    margin-top: 0.3em;
+    float: left;
+    
+           
+}
+h3 {
+    margin-bottom: -1em;
+    margin-top: 0.3em;
+}
+
+
+
+
+
+
+
+.post-img {
+    background-color: blueviolet;
+    width: auto;
+    height: 30em;
+}
+
+img {
+   width: 100%;
+   height: 100%;
+   object-fit: cover;
+}
+
+
+
+
+
+
+
+.post-icons {
+    width: auto;
+    height: 4em;
+    
+    
+    
+}
+.Izquierda {
+    font-size: 2em;
+    padding: .5em;
+    
+}
+.Derecha {
+    float: right;
+    padding-right: 0.5em;
+    font-size: 2em;  
+    margin-top: -1.6em;
+}
+
+
+
+
+
+
+
+
+.post-body {
+    padding: 1em;
+    margin-top: -1em;
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
